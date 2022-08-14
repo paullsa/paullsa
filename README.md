@@ -1,3 +1,6 @@
+# This is my readme file - isn't it just great
+
+
 - 👋 Hi, I’m @paullsa
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python
