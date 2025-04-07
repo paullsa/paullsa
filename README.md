@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a data scientist and AI enthusiast who's is passionate about showing how technology can be used to make everything easier. Currently I'm focussing on Agentic AI, so have decided to share what I'm learning here:- currently a lot of LangChain, but Bedrock is next! 
+
+## Find me around the web 🌎:
+
+- Sharing updates on <a href="https://www.linkedin.com/in/alistairpaulls/">LinkedIn</a> 💼
