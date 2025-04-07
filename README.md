@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a data scientist and AI enthusiast who's is passionate about showing how technology can be used to make everything easier. Currently I'm focussing on Agentic AI, so have decided to share what I'm learning here:- currently a lot of LangChain, but Bedrock is next! 
+I'm a data scientist and AI enthusiast who's is passionate about showing how technology can be used to make everything easier. Currently I'm focussing on Agentic AI, so have decided to share what I'm learning here - currently a lot of LangChain, but Bedrock is next! 
 
 ## Find me around the web 🌎:
 
